@@ -15,6 +15,7 @@
   --shadow:0 24px 64px rgba(0,0,0,.75);
   --r:2px;
   --transition:.22s cubic-bezier(.4,0,.2,1);
+
 }
 :root[data-theme="light"]{
   --bg:#FDF5FA;
